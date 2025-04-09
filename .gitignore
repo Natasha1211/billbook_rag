@@ -1,10 +1,28 @@
-.env
-req.txt
-mongo_DB.py
+# Byte-compiled files
+.streamlit
+__pycache__/
+*.py[cod]
+embeddings
 llama3.py
 prompt_llm.txt
+req.txt
+
 *.json
 *.ipynb
-embeddings
-.streamlit
-__pycache__
+
+# Virtual environments
+env/
+venv/
+.env/
+
+# Logs
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
