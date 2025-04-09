@@ -1,0 +1,4 @@
+.env
+req.txt
+mongo_DB.py
+llama3.py
