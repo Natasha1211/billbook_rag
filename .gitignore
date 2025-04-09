@@ -6,3 +6,5 @@ prompt_llm.txt
 *.json
 *.ipynb
 embeddings
+.streamlit
+__pycache__
