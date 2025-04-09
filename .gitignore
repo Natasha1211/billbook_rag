@@ -2,3 +2,7 @@
 req.txt
 mongo_DB.py
 llama3.py
+prompt_llm.txt
+*.json
+*.ipynb
+embeddings
